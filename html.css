@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="bandeau">
+        <h2>bandeau</h2>
+    </div>
+
+    <div class="main">
+        <div class="menu">
+            <div class="menu_haut">
+                <h2>Menu Haut</h2>
+            </div>
+            <div class="menu_bas">
+                <h2>Menu Bas</h2>
+            </div>
+        </div>
+
+        <div class="contenu">
+            <h2>contenu</h2>
+            <div id="bloc">
+                <h2>Bloc News</h2>
+            </div>
+            <div id="para">
+                <p>La vie de Walter White, professeur de chimie dans un lycée, est bouleversée lorsqu'il apprend qu'il
+                    est atteint d'un cancer en phase terminale. Une nouvelle qui le sort de la torpeur de son quotidien
+                    et l'amène à prendre des mesures radicales pour anticiper l'avenir de sa famille.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="pied_de_page">
+        <h2>Pied de page</h2>
+    </div>
+
+    <div class="text">
+        <p class="p_pied_de_page"><span> Bonjour à tous</span></p>
+    </div>
+
+    <div class="text2">
+        <p class="p_2">Comment<span>allez vous</span></p>
+    </div>
+
+<div class="table">
+        <div class="table_1">
+            <table>
+                <caption>
+                    Joueurs Emblématiques du PSG
+                </caption>
+                <thead>
+                    <tr>
+                        <th>Nom</th>
+                        <th>Position</th>
+                        <th>Période au PSG</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Kylian Mbappé</th>
+                        <td>Attaquant</td>
+                        <td>2017-2024</td>
+                    </tr>
+                    <tr>
+                        <th>Neymar Jr</th>
+                        <td>Ailier</td>
+                        <td>2017-2023</td>
+                    </tr>
+                    <tr>
+                        <th>Lionel Messi</th>
+                        <td>Attaquant</td>
+                        <td>2021-2023</td>
+                    </tr>
+                    <tr>
+                        <th>Marco Verratti</th>
+                        <td>Milieu</td>
+                        <td>2012-2023</td>
+                    </tr>
+                    <tr>
+                        <th>Thiago Silva</th>
+                        <td>Défenseur</td>
+                        <td>2012-2020</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="text_table">
+            <span>vers tableau 2</span>
+        </div>
+        <div class="table_2">
+            <table>
+                <caption>
+                    Palmarès Récent du PSG
+                </caption>
+                <thead>
+                    <tr>
+                        <th>Compétition</th>
+                        <th>Nombre de titres</th>
+                        <th>Dernière victoire</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Ligue 1</th>
+                        <td>12 titres</td>
+                        <td>2024</td>
+                    </tr>
+                    <tr>
+                        <th>Coupe de France</th>
+                        <td>15 victoires</td>
+                        <td>2024</td>
+                    </tr>
+                    <tr>
+                        <th>Coupe de la Ligue</th>
+                        <td>9 victoires</td>
+                        <td>2020</td>
+                    </tr>
+                    <tr>
+                        <th>Trophée des Champions</th>
+                        <td>12 victoires</td>
+                        <td>2024</td>
+                    </tr>
+                    <tr>
+                        <th>Ligue des Champions</th>
+                        <td>0 titre</td>
+                        <td>Finaliste 2020</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="text_table1">
+            <span>Vers tableau 3</span>
+        </div>
+        <div class="table_3">
+            <table>
+                <caption>
+                    Effectif Actuel PSG (2024-2025)
+                </caption>
+                <thead>
+                    <tr>
+                        <th>Nom</th>
+                        <th>Position</th>
+                        <th>Nationalité</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Gianluigi Donnarumma</th>
+                        <td>Gardien</td>
+                        <td>Italie</td>
+                    </tr>
+                    <tr>
+                        <th>Achraf Hakimi</th>
+                        <td>Défenseur</td>
+                        <td>Maroc</td>
+                    </tr>
+                    <tr>
+                        <th>Vitinha</th>
+                        <td>Milieu</td>
+                        <td>Portugal</td>
+                    </tr>
+                    <tr>
+                        <th>Ousmane Dembélé</th>
+                        <td>Ailier</td>
+                        <td>France</td>
+                    </tr>
+                    <tr>
+                        <th>Bradley Barcola</th>
+                        <td>Attaquant</td>
+                        <td>France</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
